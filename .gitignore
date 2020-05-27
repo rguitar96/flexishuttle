@@ -1,0 +1,4 @@
+*.osm
+*.exe
+tilescache
+__pycache__
