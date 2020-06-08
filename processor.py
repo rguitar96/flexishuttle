@@ -225,7 +225,7 @@ bus_list = []
 request_list = []
 global_request_queue = queue.Queue()
 
-MAX_BUSES = 8
+MAX_BUSES = 3
 MAX_REQUESTS=40
 
 def bus_spawn_thread():
@@ -251,7 +251,7 @@ def request_thread():
             request_list.append(request)
             global_request_queue.put(request)
         
-        time.sleep(random.randint(5,12))
+        time.sleep(random.randint(4,10))
 
 request_thread = threading.Thread(target=request_thread)
 request_thread.daemon = True
