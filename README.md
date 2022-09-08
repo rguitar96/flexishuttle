@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rguitar/flexishuttle">
+  <a href="https://github.com/rguitar96/flexishuttle">
     <img src="img/dalle-logo.png" alt="Logo" width="150" height="150">
   </a>
 <br/>
@@ -47,5 +47,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Rodrigo Pueblas - [@rguitar96](https://twitter.com/rguitar96) - rodrigo.pueblas@hotmail.com
 
-Project Link: [https://github.com/rguitar96/business-scout](https://github.com/rguitar96/business-scout)
+Project Link: [https://github.com/rguitar96/flexishuttle](https://github.com/rguitar96/business-scout)
 
